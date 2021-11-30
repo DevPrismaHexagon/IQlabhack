@@ -1,0 +1,60 @@
+footer {
+  background: #000;
+}
+footer ul li {
+  list-style: none;
+  color: #fff;
+  padding: 10px 15px;
+}
+footer ul li a {
+  color: #fff;
+  font-size: 15px;
+}
+footer ul li a:hover {
+  text-decoration: none;
+  color: #fff;
+}
+footer .redes {
+  color: #fff;
+  border-top: 1px solid #fff;
+}
+footer .redes ul li {
+  display: inline-block;
+}
+
+#format_request .title h2 {
+  font-weight: bold;
+  font-size: 32px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+#format_request h3 {
+  background-color: #C7F1FB;
+  font-weight: bold;
+  font-size: 24px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+#format_request table thead {
+  background-color: #C7F1FB;
+}
+#format_request .observaciones p {
+  font-size: 24px;
+  font-weight: 600;
+}
+#format_request .observaciones textarea {
+  height: 180px;
+  resize: none;
+}
+
+.guardar {
+  font-size: 18px;
+  background-color: #1FC9ED;
+  color: #fff;
+}
+
+#bd_offerer table thead {
+  background-color: #C7F1FB;
+}
+
+table thead {
+  background-color: #C7F1FB;
+}
